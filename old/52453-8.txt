@@ -1,4 +1,40 @@
-*** START OF THE PROJECT GUTENBERG EBOOK 52453 ***
+The Project Gutenberg EBook of Joseph Conrad, by Hugh Walpole
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+
+
+Title: Joseph Conrad
+
+Author: Hugh Walpole
+
+Release Date: June 30, 2016 [EBook #52453]
+
+Language: English
+
+Character set encoding: ISO-8859-1
+
+*** START OF THIS PROJECT GUTENBERG EBOOK JOSEPH CONRAD ***
+
+
+
+
+Produced by David Widger from page images generously
+provided by the Internet Archive
+
+
+
+
+
+
+
+
+
 
 JOSEPH CONRAD
 
@@ -32,7 +68,7 @@ I
 |TO any{001} reader of the books of Joseph Conrad it must be at once
 plain that his immediate experiences and impressions of life have gone
 very directly to the making of his art. It may happen often enough that
-an author’s artistic life is of no importance to the critic and that
+an author's artistic life is of no importance to the critic and that
 his dealing with it is merely a personal impertinence and curiosity, but
 with the life of Joseph Conrad the critic has something to do, because,
 again and again, this writer deliberately evokes the power of personal
@@ -59,7 +95,7 @@ Master in the English Merchant Service in 1884, in which year he was
 naturalised. In 1894 he left the sea, whose servant he had been for
 nearly twenty years: he sent the manuscript of a novel that he had been
 writing at various periods during {009}his sea life to Mr Fisher Unwin.
-With that publisher’s acceptance of _Almayer’s Folly_ the third period
+With that publisher's acceptance of _Almayer's Folly_ the third period
 of his life began. Since then his history has been the history of his
 books.
 
@@ -68,7 +104,7 @@ relationship of these three backgrounds--Poland, the Sea, the inner
 security and tradition of an English country-side--one can realise what
 they may make of an artist. That early Polish atmosphere, viewed through
 all the deep light and high shade of a remembered childhood, may be
-enough to give life and vigour to any poet’s temperament. The romantic
+enough to give life and vigour to any poet's temperament. The romantic
 melancholy born of early years in such an atmosphere might well plant
 deeply in any soul the ironic contemplation of an impossible freedom.
 
@@ -109,19 +145,19 @@ citizen of a world where freedom reigned because men could not perceive
 how it could be otherwise; the two sides of the shield were revealed to
 him.
 
-Then, towards the end of his twenty years’ service of the sea, the
+Then, towards the end of his twenty years' service of the sea, the
 creative impulse in him demanded an outlet. He wrote, at stray moments
 of opportunity during several years, a novel, wrote it for his pleasure
 and diversion, sent it finally to a publisher with all that lack of
 confidence in posts and publishers that every author, who cares for
 his creations, will feel to the end of his days. He has said that if
-_Almayer’s Folly_ had been refused he would never have written again,
+_Almayer's Folly_ had been refused he would never have written again,
 but we may well believe that, let the fate of that book be what it
 might, the energy and surprise of his discovery of the sea must
-have been declared to the world. _Almayer’s Folly_, however, was not
-rejected; its publication caused _The Spectator_ to remark: “The name of
+have been declared to the world. _Almayer's Folly_, however, was not
+rejected; its publication caused _The Spectator_ to remark: "The name of
 Mr Conrad is new to us, but it appears to us as if he might become the
-Kipling of the Malay Archipelago.” He {013}had, therefore, encouragement
+Kipling of the Malay Archipelago." He {013}had, therefore, encouragement
 of the most dignified kind from the beginning. He himself, however, may
 have possibly regarded that day in 1897 when Henley accepted _The Nigger
 of the Narcissus_ for _The New Review_ as a more important date in his
@@ -131,14 +167,14 @@ of his adventure.
 The quiet atmosphere of the England that he had adopted made the final,
 almost inevitable contrast with the earlier periods. With such a country
 behind him it was possible for him to contemplate in peace the whole
-“case” of his earlier life. It was as a “case” that he saw it, a “case”
- that was to produce all those other “cases” that were his books. This
+"case" of his earlier life. It was as a "case" that he saw it, a "case"
+that was to produce all those other "cases" that were his books. This
 has been their history.
 
 II
 
 His books, also, find naturally a division into three parts; the first
-period, beginning with _Almayer’s Folly_ in 1895, ended with _Lord
+period, beginning with _Almayer's Folly_ in 1895, ended with _Lord
 Jim_ in 1900. The second contains {014}the two volumes of _Youth_ and
 _Typhoon_, the novel _Romance_ that he wrote in collaboration with Ford
 Madox Hueffer, and ends with _Nostromo_, published in 1903. The third
@@ -148,10 +184,10 @@ and _Victory_ (1915).
 
 His first period was a period of struggle, struggle with a foreign
 language, struggle with a technique that was always, from the point of
-view of the “schools,” to remain too strong for him, struggles with the
+view of the "schools," to remain too strong for him, struggles with the
 very force and power of his reminiscences that were urging themselves
 upon him, now at the moment of their contemplated freedom, like wild
-beasts behind iron bars. _Almayer’s Folly_ and _The Outcast of the
+beasts behind iron bars. _Almayer's Folly_ and _The Outcast of the
 Islands_ (the first of these is sequel to the second) were remarkable in
 the freshness of their discovery of a new world. It was not that their
 world had not been found before, but rather that Conrad, by the force of
@@ -166,7 +202,7 @@ it overwhelming was so obvious as to frighten the creature into a
 determination to be, simply out of malicious perversity, anything else.
 
 These two novels were followed by a volume of short stories, _Tales of
-Unrest_, that reveal, quite nakedly, Conrad’s difficulties. One study in
+Unrest_, that reveal, quite nakedly, Conrad's difficulties. One study in
 this book, _The Return_, with its redundancies and overemphasis, is the
 crudest parody on its author and no single tale in the volume succeeds.
 It was, however, as though, with these efforts, Conrad flung himself
@@ -185,7 +221,7 @@ is never, for an instant, abandoned. It is, above all, a record of
 lovingly cherished reminiscence. Of cherished reminiscence also was the
 book that closed the first period of his work, _Lord Jim_. This was to
 remain, until the publication of _Chance_, his most popular novel. It
-is the story of a young Englishman’s loss of honour in a moment of panic
+is the story of a young Englishman's loss of honour in a moment of panic
 and his victorious recovery. The first half of the book is a finely
 sustained development of a {016}vividly remembered scene, the second
 half has the inevitability of a moral idea pursued to its romantic end
@@ -212,18 +248,18 @@ deliberately created rather than reminiscent, _Nostromo_. Conrad may
 have known Dr Monyngham, Decoud, Mrs Could, old Viola; but; they became
 stronger than he and, in their completed personalities, owed no man
 anything for their creation. There is much to be said about _Nostromo_,
-in many ways the greatest of all Conrad’s works, but, for the moment,
+in many ways the greatest of all Conrad's works, but, for the moment,
 one would only say that its appearance (it appeared first, of all
-ironical births, in a journal--_T.P.’s Weekly_--and astonished and
+ironical births, in a journal--_T.P.'s Weekly_--and astonished and
 bewildered its readers week by week, by its determination not to finish
 and yield place to something simpler) caused no comment whatever, that
-its critics did not understand it, and its author’s own admirers were
+its critics did not understand it, and its author's own admirers were
 puzzled by its unlikeness to the earlier sea stories.
 
 _Nostromo_ was followed by a pause--one {019}can easily imagine that
 its production did, for a moment, utterly exhaust its creator. When,
 however, in 1907 appeared _The Secret Agent_, a new attitude was most
-plainly visible. He was suddenly detached, writing now of “cases” that
+plainly visible. He was suddenly detached, writing now of "cases" that
 interested him as an investigator of human life, but called from his
 heart no burning participation of experience. He is tender towards
 Winnie Verloc and her old mother, the two women in _The Secret Agent_,
@@ -233,17 +269,17 @@ accompanied Willems to his degraded death, is gone. We have the finer
 artist, but we have lost something of that earlier compelling interest.
 _The Secret Agent_ is a tale of secret service in London; it contains
 the wonderfully created figure of Verloc and it expresses, to the full,
-Conrad’s hatred of those rows and rows of bricks and mortar that are so
+Conrad's hatred of those rows and rows of bricks and mortar that are so
 completely accepted by unimaginative men. In 1911 _Under Western Eyes_
-spoke strongly of a Russian influence {020}Turgéniev and Dostoievsky had
+spoke strongly of a Russian influence {020}Turg�niev and Dostoievsky had
 too markedly their share in the creation of Razumov and the cosmopolitan
 circle in Geneva. Moreover, it is a book whose heart is cold.
 
 A volume of short stories, _A Set of Six_, illustrating still more
-emphatically Conrad’s new detachment, appeared in 1908 and is remarkable
+emphatically Conrad's new detachment, appeared in 1908 and is remarkable
 chiefly for an ironically humorous story of the Napoleonic wars--_The
 Duel_--a tale too long, perhaps, but admirable for its sustained note.
-In 1912 he seemed, in another volume, _‘Twixt Land and Sea_, to unite
+In 1912 he seemed, in another volume, _'Twixt Land and Sea_, to unite
 some of his earlier glow with all his later mastery of his method. _A
 Smile, of Fortune_ and _The Secret Sharer_ are amazing in the beauty of
 retrospect that they leave behind them in the soul of the reader. The
@@ -268,7 +304,7 @@ To any reader who cares, seriously, to study the art of Joseph Conrad,
 no better advice could be offered than that he should begin with the
 reading of the two volumes that have been omitted from the preceding
 list. _Some Reminiscences_ and _The Mirror of the Sea_ demand
-consideration on the threshold of any survey of this author’s work,
+consideration on the threshold of any survey of this author's work,
 because {022}they reveal, from a personal, wilful and completely
 anarchistic angle, the individuality that can only be discovered,
 afterwards, objectively, in the process of creation.
@@ -282,19 +318,19 @@ _The Mirror of the Sea_ has no rival at all.
 
 We may suppose that the author did really intend to write his
 reminiscences when he began. He found a moment that would make, a good
-starting-point, a moment in the writing of his first book, _Almayer’s
+starting-point, a moment in the writing of his first book, _Almayer's
 Folly_, at the conclusion or, more truly, cessation of _Some
 Reminiscences_, that moment is still hanging in mid-air, the writing
 of _Almayer_ has not proceeded two lines farther down the stage, the
 maid-servant, is still standing in the doorway, the hands of {023}the
 clock have covered five minutes of the dial. What has occurred is simply
 that the fascination of the subject has been too strong. It is of the
-very essence of Conrad’s art that one thing so powerfully suggests to
+very essence of Conrad's art that one thing so powerfully suggests to
 him another that to start him on anything at all is a tragedy, because
 life is so short. His reminiscences would be easy enough to command
 would they only not take on a life of their own and shout at their
-unfortunate author: “Ah! yes. I’m interesting, of course, but don’t you
-remember...?”
+unfortunate author: "Ah! yes. I'm interesting, of course, but don't you
+remember...?"
 
 The whole adventure of writing his first book is crowded with incident,
 not because he considers it a wonderful book or himself a marvellous
@@ -303,13 +339,13 @@ be crowded about with other incidents. There is the pen one wrote the
 book with, that pen that belonged to poor old Captain B-------- of the
 _Nonsuch_ who... or there is the window just behind the writing-table
 that looked out into the river, that river that reminds one of the
-year ‘88 when...
+year '88 when...
 
 In the course of his thrilling voyage of {024}discovery we are, by a
 kind of most blessed miracle, told something of Mr Nicholas B. and of
-the author’s own most fascinating uncle. We even, by an extension of the
-miracle, learn something of Conrad as ship’s officer (this the merest
-glimpse) and as a visitor to his uncle’s house in Poland.
+the author's own most fascinating uncle. We even, by an extension of the
+miracle, learn something of Conrad as ship's officer (this the merest
+glimpse) and as a visitor to his uncle's house in Poland.
 
 So by chance are these miraculous facts and glimpses that we catch at
 them with eager, extended hands, praying, imploring them to stay; indeed
@@ -317,30 +353,30 @@ those glimpses may seem to us the more wonderful in that they have been,
 by us, only partially realised.
 
 Nevertheless, in spite of its eager incoherence, at the same time both
-breathless, and, by the virtue of its author’s style, solemn, we do
+breathless, and, by the virtue of its author's style, solemn, we do
 obtain, in addition to our glimpses of Poland and the sea, one or two
 revelations of Conrad himself. Our revelations come to us partly through
 our impression of his own zest for life, a zest always ironical,
 often sceptical, but always eager and driven by a throbbing impulse of
 vitality. Partly also through certain deliberate utterances. He tells
-us: {025} “Those who read me know my conviction that the world, the
+us: {025}"Those who read me know my conviction that the world, the
 temporal world, rests on a few very simple ideas; so simple that they
 must be as old as the hills. It rests, notably, amongst others, on the
 idea of Fidelity. At a time when nothing which is not revolutionary in
 some way or other can expect to attract much attention I have not been
-revolutionary in my writings.” (Page 20.)
+revolutionary in my writings." (Page 20.)
 
 Or again:
 
-“All claim to special righteousness awakens in me that scorn and anger
-from which a philosophical mind should be free.” (Page 21.)
+"All claim to special righteousness awakens in me that scorn and anger
+from which a philosophical mind should be free." (Page 21.)
 
 Or again:
 
-“Even before the most seductive reveries I have remained mindful of that
+"Even before the most seductive reveries I have remained mindful of that
 sobriety of interior life, that asceticism of sentiment, in which alone
 the naked form of truth, such as one conceives it, such as one feels it,
-can be rendered without shame.” (Page 194.)
+can be rendered without shame." (Page 194.)
 
 This simplicity, this fidelity, this hatred of self-assertion and
 self-satisfaction, this sobriety--these qualities do give some
@@ -358,20 +394,20 @@ to be most grievously disappointed.
 If the beginning is bewilderment the end is an impression of crowding,
 disordered life, of a tapestry richly dark, with figures woven into the
 very thread of it and yet starting to life with an individuality all
-their own. No book reveals more clearly the reasons both of Conrad’s
+their own. No book reveals more clearly the reasons both of Conrad's
 faults and of his merits. No book of his is more likely by reason of its
 honesty and simplicity to win him true friends. As a work of art there
 is almost everything to be said against it, except that it has that
 supreme gift that remains, at the end, almost all that we ask of any
 work of {027}art, overwhelming vitality. But it is formless, ragged,
 incoherent, inconclusive, a fragment of eager, vivid, turbulent
-reminiscence poured into a friend’s ear in a moment of sudden
+reminiscence poured into a friend's ear in a moment of sudden
 confidence. That may or may not be the best way to conduct
 reminiscences; the book remains a supremely intimate, engaging and
 enlightening introduction to its author.
 
 With _The Mirror of the Sea_ we are on very different ground. As I have
-already said, this is Conrad’s happiest book--indeed, with the possible
+already said, this is Conrad's happiest book--indeed, with the possible
 exception of _The Nigger of the Narcissus_, his only happy book. He
 is happy because he is able, for a moment, to forget his distrust, his
 dread, his inherent ironical pessimism. He is here permitting himself
@@ -396,13 +432,13 @@ exact and perfect balance that this book has its unique value, its power
 both of realism, for this is the life of man, and of romance, which is
 the life of the sea.
 
-Conrad’s attitude to the Sea herself, in this book, is one of lyrical
+Conrad's attitude to the Sea herself, in this book, is one of lyrical
 and passionate worship. He sees, with all the vivid accuracy of his
 realism, her deceits, her {029}cruelties, her inhuman disregard of the
 lives of men, but, finally, her glory is enough for him. He will write
 of her like this:
 
-“The sea--this truth must be confessed--has no generosity. No display of
+"The sea--this truth must be confessed--has no generosity. No display of
 manly qualities--courage, hardihood, endurance, faithfulness--has ever
 been known to touch its irresponsible consciousness of power. The ocean
 has the conscienceless temper of a savage autocrat spoiled by much
@@ -410,53 +446,53 @@ adulation. He cannot brook the slightest appearance of defiance, and has
 remained the irreconcilable enemy of ships and men ever since ships and
 men had the unheard-of audacity to go afloat together in the face of
 his frown... the most amazing wonder of the deep is its unfathomable
-cruelty.”
+cruelty."
 
 Nevertheless she holds him her most willing slave and he is that because
 he believes that she alone in all the world is worthy to indulge this
-cruelty. She positively “brings it off,” this assertion of her right,
+cruelty. She positively "brings it off," this assertion of her right,
 and once he is assured of that, he will yield absolute obedience. In
 this worship of the Sea and the winds that rouse her he allows himself
 a {030}lyrical freedom that he was afterwards to check. He was never
 again, not even in _Typhoon_ and _Youth_, to write with such free and
-spontaneous lyricism as in his famous passage about the “West Wind.”
+spontaneous lyricism as in his famous passage about the "West Wind."
 
 _The Mirror of the Sea_ forms then the best possible introduction
-to Conrad’s work, because it attests, more magnificently and more
+to Conrad's work, because it attests, more magnificently and more
 confidently than anything else that he has written, his faith and his
 devotion. It presents also, however, in its treatment of the second
 element of his subject, the men on the ships, many early sketches of the
 characters whom he, both before and afterwards, developed so fully in
 his novels. About these same men there are certain characteristics to
 be noticed, characteristics that must be treated more fully in a later
-analysis of Conrad’s creative power, but that nevertheless demand some
+analysis of Conrad's creative power, but that nevertheless demand some
 mention here as witnesses of the emotions, the humours, the passions
 that he, most naturally, observes. It is, in the first place, to
-be marked that almost all the men upon the sea, from “poor Captain
+be marked that almost all the men upon the sea, from "poor Captain
 B--------, who used {031}to suffer from sick headaches, in his young
-days, every time he was approaching a coast,” to the dramatic Dominic
-(“from the slow, imperturbable gravity of that broad-chested man
-you would think he had never smiled in his life”), are silent and
+days, every time he was approaching a coast," to the dramatic Dominic
+("from the slow, imperturbable gravity of that broad-chested man
+you would think he had never smiled in his life"), are silent and
 thoughtful. Granted this silence, Conrad in his half-mournful,
 half-humorous survey, is instantly attracted by any possible contrast.
 Captain B------- dying in his home, with two grave, elderly women
-sitting beside him in the quiet room, “his eyes resting fondly upon the
+sitting beside him in the quiet room, "his eyes resting fondly upon the
 faces in the room, upon the pictures on the wall, upon all the familiar
 objects of that home whose abiding and clear image must have flashed
-often on his memory in times of stress and anxiety at sea”--“poor
-P--------,” with “his cheery temper, his admiration for the jokes in
+often on his memory in times of stress and anxiety at sea"--"poor
+P--------," with "his cheery temper, his admiration for the jokes in
 _Punch_, his little oddities--like his strange passion for borrowing
-looking-glasses, for instance”--that captain who “did everything with an
+looking-glasses, for instance"--that captain who "did everything with an
 air which put your attention on the alert and raised your expectations,
 but the result somehow was always on stereotyped {032}lines,
-unsuggestive, empty of any lesson that one could lay to heart”--that
-other captain in whom “through a touch of self-seeking that modest
-artist of solid merit became untrue to his temperament”--here are little
+unsuggestive, empty of any lesson that one could lay to heart"--that
+other captain in whom "through a touch of self-seeking that modest
+artist of solid merit became untrue to his temperament"--here are little
 sketches for those portraits that afterwards we are to know so well,
-Marlowe, Captain M’Whirr, Captain Lingard, Captain Mitchell and many
+Marlowe, Captain M'Whirr, Captain Lingard, Captain Mitchell and many
 others. Here we may fancy that his eye lingers as though in the mere
 enumeration of little oddities and contrasted qualities he sees such
-themes, such subjects, such “cases” that it is hard, almost beyond
+themes, such subjects, such "cases" that it is hard, almost beyond
 discipline, to leave them. Nevertheless they have to be left. He has
 obtained his broader contrast by his juxtaposition of the curious
 muddled jumble of the human life against the broad, august power of the
@@ -472,13 +508,13 @@ to their pride and beauty, coloured with a fine glow of romance,
 but nevertheless he realises them with all the accurate detail of a
 technician who describes his craft. You may learn of the raising and
 letting go of an anchor, and he will tell the journalists of their
-crime in speaking of “casting” an anchor when the true technicality is
-“brought up”--“to an anchor” understood. In the chapter on “Yachts” he
+crime in speaking of "casting" an anchor when the true technicality is
+"brought up"--"to an anchor" understood. In the chapter on "Yachts" he
 provides as much technical detail as any book of instruction need demand
-and then suddenly there come these sentences--“the art of handling
-slips is finer, perhaps, than the art of handling men.”... “A ship is a
+and then suddenly there come these sentences--"the art of handling
+slips is finer, perhaps, than the art of handling men."... "A ship is a
 creature which we have brought into the world, as it were on purpose to
-keep us up to mark.”
+keep us up to mark."
 
 Indeed it is the ship that gives that final impression of unity, of
 which I have already spoken, to the book. She grows, as it were, from
@@ -487,17 +523,17 @@ more closely into her intimacy, telling us, at first shyly, afterwards
 more boldly, little things about herself, confiding to us her trials,
 appealing sometimes to our admiration, indulging sometimes our humour.
 Conrad is tender to her as he is to nothing human. He watches her shy,
-new, in the dock, “her reputation all to make yet in the talk of the
-seamen who were to share their life with her.”... “She looked modest to
+new, in the dock, "her reputation all to make yet in the talk of the
+seamen who were to share their life with her."... "She looked modest to
 me. I imagined her diffident, lying very quiet, with her side nestling
 shyly against the wharf to which she was made fast with very new lines,
 intimidated by the company of her tried and experienced bisters already
 familiar with all the violences of the ocean and the exacting love of
-men.”
+men."
 
 Her friend stands there on the quay and bids her be of good courage; he
 salutes her grace and spirit--he echoes, with all the implied irony of
-contrast, his companion’s “Ships are all right....”
+contrast, his companion's "Ships are all right...."
 
 He explains the many kinds of ships that there are--the rogues, the
 wickedly malicious, {035}the sly, the benevolent, the proud, the
@@ -558,7 +594,7 @@ abandoned themselves to the rich independence of shilling numbers, a
 fashion which forbade Form as completely as the manners of the time
 forbade frankness. A new period began at the end of the fifties;
 {038}but no one in 1861 was aware that a novel called _Evan Harrington_
-was of any special importance; it made no more stir than did _Almayer’s
+was of any special importance; it made no more stir than did _Almayer's
 Folly_ in the early nineties, although the wonderful _Richard Feverel_
 had already preceded it.
 
@@ -572,7 +608,7 @@ everything that you could not possibly get to the end of it, and Rudyard
 Kipling showed that the great thing was to see things as they were. At
 the beginning of the nineties everyone was immensely busied over the way
 that things were done. _The Yellow Book_ sprang into a bright existence,
-flamed, and died. “Art for Art’s sake” was slain by the trial of Oscar
+flamed, and died. "Art for Art's sake" was slain by the trial of Oscar
 Wilde in 1895.
 
 {039}Mr Wells, in addition to fantastic romances, wrote stories about
@@ -580,7 +616,7 @@ shop assistants and knew something about biology. The Fabian Society
 made socialism entertaining. Mr Bernard Shaw foreshadowed a new period
 and the Boer War completed an old one.
 
-Of the whole question of Conrad’s place in the history of the English
+Of the whole question of Conrad's place in the history of the English
 novel and his influence upon it I wish to speak in a later chapter.
 I would simply say here that if he was borne in upon the wind of the
 French influence he was himself, in later years, one of the chief agents
@@ -602,7 +638,7 @@ been most frequently attacked.
 His difficulties in this matter have all arisen, as I have already
 suggested, from his absorbing interest in life. Let us imagine, for an
 instant, an imaginary case. He has teen in some foreign port a quarrel
-between two seamen. One has “knifed” the other, and the quarrel has been
+between two seamen. One has "knifed" the other, and the quarrel has been
 watched, with complete indifference, by a young girl and a bibulous old
 wastrel who is obviously a relation both of hers and of the stricken
 seaman. The author sees here a case for his art and, wishing to give
@@ -623,15 +659,15 @@ was...
 
 And so the matter continues. It is not so much a deliberate evocation of
 the most difficult of methods, this maimer of narration, as a poignant
-witness to Conrad’s own breathless surprise at his discoveries. Mr Henry
+witness to Conrad's own breathless surprise at his discoveries. Mr Henry
 James, speaking of this enforced collection of oratorical witnesses,
-says: “It places Mr Conrad absolutely alone as a {042}votary of the way
-to do a thing that shall make it undergo most doing,” and his amazement
-at Conrad’s patient pursuit of unneeded difficulties may seem to us the
+says: "It places Mr Conrad absolutely alone as a {042}votary of the way
+to do a thing that shall make it undergo most doing," and his amazement
+at Conrad's patient pursuit of unneeded difficulties may seem to us the
 stranger if we consider that in _What Maisie Knew_ and _The Awkward Age_
 he has practised almost precisely the same form himself. Indeed beside
 the intricate but masterly form of _The Awkward Age_ the duplicate
-narration of _Chance_ seems child’s play. Mr Henry James makes the
+narration of _Chance_ seems child's play. Mr Henry James makes the
 mistake of speaking as though Conrad had quite deliberately chosen the
 form of narration that was most difficult to him, simply for the fun
 of overcoming the difficulties, the truth being that he has chosen the
@@ -654,47 +690,47 @@ remains with the reader; the scene of the inquiry into the loss of
 the _Patna_, or rather the vision of Jim and his appalling companions
 waiting outside for the inquiry to begin. Simply in the contemplation
 of these four men Conrad has his desired contrast; the skipper of
-the _Patna_: “He made me think of a trained baby elephant walking
+the _Patna_: "He made me think of a trained baby elephant walking
 on hind-legs. He was extravagantly gorgeous too--got up in a. soiled
 sleeping-suit, bright green and deep orange vertical stripes, with a
-pair of ragged straw slippers {044}on his bare feet, and somebody’s
+pair of ragged straw slippers {044}on his bare feet, and somebody's
 cast-off pith hat, very dirty and two sizes too small for him, tied up
-with a manilla rope-yarn on the top of his big head.” There are also two
-other “no-account chaps with him”--a sallow faced mean little chap with
+with a manilla rope-yarn on the top of his big head." There are also two
+other "no-account chaps with him"--a sallow faced mean little chap with
 his arm in a sling, and a long individual in a blue flannel coat,
 as dry as a chip and no stouter than a broomstick, with drooping grey
 moustaches, who looked about him with an air of jaunty imbecility, and,
-with these three, Jim, “clean-limbed, clean-faced, firm on his feet, as
-promising a boy as the sun ever shone on.” Here are these four, in the
+with these three, Jim, "clean-limbed, clean-faced, firm on his feet, as
+promising a boy as the sun ever shone on." Here are these four, in the
 same box, condemned for ever by all right-thinking men. That boy in the
 same box as those obscene scoundrels! At once the artist has fastened
 on to his subject, it bristles with active, vital possibilities and
-discoveries. We, the observers, share the artist’s thrill. We watch
+discoveries. We, the observers, share the artist's thrill. We watch
 our author dart upon a subject with the excitement of adventurers
 discovering a gold mine. How much will it yield? How deep will it go?
 We are thrilled with the suspense. {045}Conrad, having discovered his
 subject, must, for the satisfaction of that honour which is his most
-deeply cherished virtue, prove to us his authenticity. “I was not
-there myself,” he tells us, “but I can show you someone who was.” He
-introduces us to a first-hand witness, Marlowe or another. “Now tell
-your story.” He has at once the atmosphere in which he is happiest,
+deeply cherished virtue, prove to us his authenticity. "I was not
+there myself," he tells us, "but I can show you someone who was." He
+introduces us to a first-hand witness, Marlowe or another. "Now tell
+your story." He has at once the atmosphere in which he is happiest,
 and so, having his audience clustered about him, unlimited time at
-everyone’s disposal, whiskies and cigars without stint, he lets himself
+everyone's disposal, whiskies and cigars without stint, he lets himself
 go. He is bothered now by no question but the thorough investigation of
 his discovery. What had Jim done that he should be in such a case? We
 must have the story of the loss of the _Patna_, that marvellous journey
 across the waters, all the world of the pilgrims, the obscene captain
-and Jim’s fine, chivalrous soul. Marlowe is inexhaustible. He has so
+and Jim's fine, chivalrous soul. Marlowe is inexhaustible. He has so
 much to say and so many fine words in which to say it. At present, so
 absorbed are we, so successful is he, that we are completely held. The
 illusion is perfect. We come to the inquiry. {046}One of the judges is
-Captain Brierley. “What! not know Captain Brierley! Ah! but I must tell
-you! Most extraordinary thing!”
+Captain Brierley. "What! not know Captain Brierley! Ah! but I must tell
+you! Most extraordinary thing!"
 
 The world grows around us; a world that can contain the captain of the
 _Patna_, Brierley and Jim at the same time! The subject before us seems
 now so rich that we are expecting to see it burst, at any moment, in the
-author’s hands, but so long as that first visualised scene is the centre
+author's hands, but so long as that first visualised scene is the centre
 of the episode, so long as the experience hovers round that inquiry
 and the Esplanade outside it, we are held, breathless and believing.
 We believe even in the eloquent Marlowe. Then the moment passes. Every
@@ -724,22 +760,22 @@ stones if we are not beguiled, Marlowe has certainly been compelled to
 _Nostromo_ is, for the reason that we never lose our confidence in the
 narrator, a triumphant vindication of these methods. That is not to deny
 that _Nostromo_ is extremely contused in places, but it is a
-confusion that arises rather from Conrad’s confidence in the reader’s
+confusion that arises rather from Conrad's confidence in the reader's
 fore-knowledge of the facts than in a complication of narrations. The
 narrations are sometimes complicated--old Captain Mitchell does not
 always achieve authenticity--but on the whole, the reader may be said to
 be puzzled, simply because he is told so much about some things and so
 little about others.
 
-But this assurance of the author’s that we must have already learnt the
+But this assurance of the author's that we must have already learnt the
 main facts of the case comes from his own convinced sense of the reality
-of it. This time he has no Marlowe. He was there himself. “Of course,”
- he says to us, “you know all about that revolution in Sulaco, that
+of it. This time he has no Marlowe. He was there himself. "Of course,"
+he says to us, "you know all about that revolution in Sulaco, that
 revolution that the Goulds were mixed up with. Well, I happened to be
 there myself. I know all {049}the people concerned, and the central
 figure was not Gould, nor Mitchell, nor Monyngham--no, it was a man
 about whom no one outside the republic was told a syllable. I knew the
-man well.... He.. and there we all are.”
+man well.... He.. and there we all are."
 
 The method is, in this case, as I have already said, completely
 successful. There may be confusions, there may be scenes concerning
@@ -749,13 +785,13 @@ our conviction of the veracity of it. No one, after a faithful perusal
 of _Nostromo_, can possibly doubt of the existence of Sulaco, of the
 silver mine, of Nostromo and Decoud, of Mrs Gould, Antonio, the Viola
 girls, of old Viola, Hirsch, Monyngham, Gould, Sotillo, of the death of
-Viola’s wife, of the expedition at night in the painter, of Decoud alone
-on the Isabels, of Hirsch’s torture, of Captain Mitchell’s watch--here
+Viola's wife, of the expedition at night in the painter, of Decoud alone
+on the Isabels, of Hirsch's torture, of Captain Mitchell's watch--here
 are characters the most romantic in the world, scenes that would surely,
 in any other hands, be fantastic {050}melodrama, and both characters and
 scenes are absolutely supported on the foundation of realistic truth.
 Not for a moment from the first page to the last do we consciously doubt
-the author’s word.... Here the form of narration is vindicated because
+the author's word.... Here the form of narration is vindicated because
 it is entirely convincing.
 
 Not so with the third example, _Chance_. Here, as with _Lord Jim_, we
@@ -766,9 +802,9 @@ _Chance_ reveals to us that moment when the Fynes, from the security of
 their comfortable home, watch Flora de Barrel flying down the steps
 of her horrible Brighton house as though the Furies pursued her. That
 desperate flight is the key of the book. The moment of the chivalrous
-Captain Anthony’s rescue of Flora from a world too villainous for her
-and too double-faced for him gives the book’s theme, and never in all
-the stories that preceded Flora’s has Conrad been so {051}eager to
+Captain Anthony's rescue of Flora from a world too villainous for her
+and too double-faced for him gives the book's theme, and never in all
+the stories that preceded Flora's has Conrad been so {051}eager to
 afford us first-hand witnesses. We have, in the first place, the
 unquenchable Marlowe sitting, with fine phrases at his lips, in a
 riverside inn. To him enter Powell, who once served with Captain
@@ -785,19 +821,19 @@ the Fynes. Moreover, the intention of this method that it should secure
 realistic conviction for the most romantic episodes does not here
 achieve its purpose, as we have seen that it did in the first half
 of {052}_Lord Jim_ and the whole of _Nostromo_. We believe most
-emphatically in that first narration of young Powell’s about his first
+emphatically in that first narration of young Powell's about his first
 chance. We believe in the first narration of Marlowe, although quite
-casually he talks like this: “I do not even think that there was in
+casually he talks like this: "I do not even think that there was in
 what he did a conscious and lofty confidence in himself, a particularly
 pronounced sense of power which leads men so often into impossible or
-equivocal situations.” We believe in the horrible governess (a fiercely
-drawn figure). We believe in Marlowe’s interview with Flora on the
-pavement outside Anthony’s room.
+equivocal situations." We believe in the horrible governess (a fiercely
+drawn figure). We believe in Marlowe's interview with Flora on the
+pavement outside Anthony's room.
 
 We believe in the whole of the first half of the book, but even here we
 are conscious that we would prefer to be closer to the whole thing, that
 it would be pleasant to hear Flora and Anthony speak for themselves,
-that we resent, a little, Marlowe’s intimacy which prevents, with
+that we resent, a little, Marlowe's intimacy which prevents, with
 patronising complaisance, the intimacy that we, the readers, might have
 seemed. Nevertheless we are so far held, we are captured.
 
@@ -805,10 +841,10 @@ But when the second half of the book {053}arrives we can be confident
 no longer. Here, as in _Lord Jim_, it is possible to feel that Conrad,
 having surprised, seized upon, mastered his original moment, did not
 know how to continue it. The true thing in _Lord Jim_ is the affair of
-the _Patna_; the true thing in _Chance_ is Captain Anthony’s rescue of
-Flora after her disaster. But whereas in _Lord Jim_ the sequel to Jim’s
+the _Patna_; the true thing in _Chance_ is Captain Anthony's rescue of
+Flora after her disaster. But whereas in _Lord Jim_ the sequel to Jim's
 cowardice has its own fine qualities of beauty and imagination, the
-sequel to Captain Anthony’s rescue of Flora seems to one listener at any
+sequel to Captain Anthony's rescue of Flora seems to one listener at any
 rate a pitiably unconvincing climax of huddled melodrama. That chapter
 in _Chance_ entitled _A Moonless Night_ is, in the first half of it,
 surely the worst thing that Conrad ever wrote, save only that one early
@@ -836,24 +872,24 @@ his presence be not true...
 
 III
 
-If we turn to the themes that engage Joseph Conrad’s attention we shall
+If we turn to the themes that engage Joseph Conrad's attention we shall
 see that {055}in almost every case his subjects are concerned with
 unequal combats--unequal to his own far-seeing vision, but never to
 the human souls engaged in them, and it is this consciousness of the
-blindness that renders men’s honesty and heroism of so little account
+blindness that renders men's honesty and heroism of so little account
 that gives occasion for his irony.
 
 He chooses, in almost every case, the most solid and unimaginative of
 human beings for his heroes, and it seems that it is these men alone
-whom he can admire. “If a human soul has vision he simply gives the
-thing up,” we can hear him say. “He can see at once that the odds are
+whom he can admire. "If a human soul has vision he simply gives the
+thing up," we can hear him say. "He can see at once that the odds are
 too strong for him. But these simple souls, with their consciousness of
 the job before them and nothing else, with their placid sense of honour
-and of duty, upon them you may loosen all heaven’s bolts and lightnings
-and they will not quail.” They command his pity, his reverence, his
+and of duty, upon them you may loosen all heaven's bolts and lightnings
+and they will not quail." They command his pity, his reverence, his
 tenderness, almost his love. But at the end, with an ironic shrug of his
-shoulders, he says: “You see. I told you so. He may even think he has
-won. We know better, you and I.” {056}The theme of _Almayer’s Folly_
+shoulders, he says: "You see. I told you so. He may even think he has
+won. We know better, you and I." {056}The theme of _Almayer's Folly_
 is a struggle of a weak man against nature, of _The Nigger of the
 Narcissus_ the struggle of many simple men against the presence of
 death, of _Lord Jim_, again, the struggle of a simple man against
@@ -862,29 +898,29 @@ _Nostromo_, the conquest of a child of nature by the silver mine which
 stands over him, conscious of its ultimate victory, from the very first.
 _Chance_, the struggle of an absolutely simple and upright soul against
 the dishonesties of a world that he does not understand. _Typhoon_, the
-very epitome of Conrad’s themes, is the struggle of M’Whirr against the
-storm (here again it is M’Whirr who apparently wins, but we can hear,
-in the very last line of the book, the storm’s confident chuckle of
+very epitome of Conrad's themes, is the struggle of M'Whirr against the
+storm (here again it is M'Whirr who apparently wins, but we can hear,
+in the very last line of the book, the storm's confident chuckle of
 ultimate victory). In _Heart of Darkness_ the victory is to the forest.
-In _The End of the Tether_ Captain Whalley, one of Conrad’s finest
+In _The End of the Tether_ Captain Whalley, one of Conrad's finest
 figures, is beaten by the very loftiness of his character. The three
-tales in _‘Twixt Land, and Sea_ are all themes of this kind--the
+tales in _'Twixt Land, and Sea_ are all themes of this kind--the
 struggle of simple, {057}unimaginative men against forces too strong
 for them. In _The Secret Agent_ Winnie Verloc, another simple character,
 finds life too much for her and commits suicide. In _Under Western Eyes_
 Razumov, the dreamer, is destroyed by a world that laughs at the pains
 and struggles of insignificant individuals.
 
-Of Conrad’s philosophy I must speak in another place: here it is enough
+Of Conrad's philosophy I must speak in another place: here it is enough
 to say that it is impossible to imagine him choosing as the character
 of a story jolly, independent souls who take life for what it gives them
 and leave defeat or victory to the stars.
 
-Whatever Conrad’s books are or are not, it may safely be said that
+Whatever Conrad's books are or are not, it may safely be said that
 they are never jolly, and his most devoted disciple would, in all
 probability, resent any suggestion of a lighter hand or a gentler
 affection, his art, nevertheless, is limited by this persistent brooding
-over the inequality of life’s battle. His humour, often of a very
+over the inequality of life's battle. His humour, often of a very
 fine kind, is always sinister, because his choice of theme forbids
 light-heartedness.
 
@@ -895,8 +931,8 @@ they might not have been something the better for a little of it.
 I have already said that his characters are, for the most part, simple
 and unimaginative men, but that does not mean that they are so simple
 that there is nothing in them. The first thing of which one is sure in
-meeting a number of Conrad’s characters is that they have existences
-and histories entirely independent of their introducer’s kind offices.
+meeting a number of Conrad's characters is that they have existences
+and histories entirely independent of their introducer's kind offices.
 Conrad has met them, has talked to them, has come to know them, but we
 are sure not only that there is very much more that he could tell us
 about them if he had time and space, but that even when he had told us
@@ -917,7 +953,7 @@ before the shadow of Mr Henry James, even in those of Mr Hardy
 before the omnipotence of an inevitable God whom, in spite of his
 inevitability, Mr Hardy himself is arranging in the background; it
 may be claimed for the characters of Mr Conrad that they yield
-their solidity to no force, no power, not even to their author’s own
+their solidity to no force, no power, not even to their author's own
 determination that they are doomed, in the end, to defeat.
 
 This is not for a moment to say that Joseph Conrad is a finer
@@ -928,83 +964,83 @@ he is describing to us.
 
 The Russian Tchekov has, in his plays, this gift supremely, so that at
 the close of _The Three Sisters_ or _The Cherry Orchard_ we are left
-speculating deeply upon “what happened afterwards” to Gayef or Barbara,
-to Masha or Epikhadov; with Conrad’s sea captains as with Tchekov’s
+speculating deeply upon "what happened afterwards" to Gayef or Barbara,
+to Masha or Epikhadov; with Conrad's sea captains as with Tchekov's
 Russians we see at once that they are entirely independent of the
 incidents that we are told about them. This independence springs partly
-from the author’s eager, almost naïve curiosity. It is impossible for
+from the author's eager, almost na�ve curiosity. It is impossible for
 him to introduce us to any officer on his ship without whispering to us
 in an aside details about his life, his wife and family on shore. By so
 doing he forges an extra link in his chain of circumstantial evidence,
 but we do not feel that here he is deliberately serving his art--it is
 only that quality already mentioned, his own astonished delight at the
 things that he is discovering. We learn, for instance, about Captain
-M’Whirr that he wrote long letters home, {061}beginning always with the
-words, “My darling Wife,” and relating in minute detail each successive
-trip of the _Nan-Shan_. Mrs M’Whirr, we learn, was “a pretentious person
+M'Whirr that he wrote long letters home, {061}beginning always with the
+words, "My darling Wife," and relating in minute detail each successive
+trip of the _Nan-Shan_. Mrs M'Whirr, we learn, was "a pretentious person
 with a scraggy neck and a disdainful manner, admittedly lady-like and in
-the neighbourhood considered as ‘quite superior.’ The only secret of her
+the neighbourhood considered as 'quite superior.' The only secret of her
 life was her abject terror of the time when her husband would come home
-to stay for good.” Also in _Typhoon_ there is the second mate “who never
+to stay for good." Also in _Typhoon_ there is the second mate "who never
 wrote any letters, did not seem to hope for news from anywhere; and
 though he had been heard once to mention West Hartlepool, it was with
 extreme bitterness, and only in connection with the extortionate charges
-of a boarding-house.” How conscious we are of Jim’s English country
-parsonage, of Captain Anthony’s loneliness, of Marlowe’s isolation. By
+of a boarding-house." How conscious we are of Jim's English country
+parsonage, of Captain Anthony's loneliness, of Marlowe's isolation. By
 this simple thread of connection between the land and the ship the whole
 character stands, human and convincing, before us. Of the sailors on
 board the _Narcissus_ there is not one about whom, after his landing,
 {062}we are not curious. There is the skipper, whose wife comes on
-board, “A real lady, in a black dress and with a parasol.”... “Very soon
+board, "A real lady, in a black dress and with a parasol."... "Very soon
 the captain, dressed very smartly and in a white shirt, went with her
-over the side. We didn’t recognise him at all....” And Mr Baker, the
+over the side. We didn't recognise him at all...." And Mr Baker, the
 chief mate! Is not this little farewell enough to make us his friends
 for life?
 
-“No one waited for him ashore. Mother died; father and two brothers,
+"No one waited for him ashore. Mother died; father and two brothers,
 Yarmouth fishermen, drowned together on the Dogger Bank; sister married
 and unfriendly. Quite a lady, married to the leading tailor of a little
 town, and its leading politician, who did not think his sailor brother
 in-law quite respectable enough for him. Quite a lady, quite a lady,
-he thought, sitting down for a moment’s rest on the quarter-hatch. Time
+he thought, sitting down for a moment's rest on the quarter-hatch. Time
 enough to go ashore and get a bite, and sup, and a bed somewhere.
-He didn’t like to part with a ship. No one to think about then. The
+He didn't like to part with a ship. No one to think about then. The
 darkness of a misty evening fell, cold and damp, upon the deserted deck;
 and Mr Baker sat smoking, thinking of all the successive ships to whom
-through many {063}long years he had given the best of a seaman’s care.
-And never a command in sight. Not once!”
+through many {063}long years he had given the best of a seaman's care.
+And never a command in sight. Not once!"
 
-There are others--the abominable Donkin for instance. “Donkin entered.
-They discussed the account... Captain Allistoun said. ‘I give you a bad
-discharge,’ he said quietly. Donkin raised his voice: ‘I don’t want your
-bloomin’ discharge--keep it. I’m goin’ ter ‘ave a job hashore.’ He turned
-to us. ‘No more bloomin’ sea for me,’ he said, aloud. All looked at him.
+There are others--the abominable Donkin for instance. "Donkin entered.
+They discussed the account... Captain Allistoun said. 'I give you a bad
+discharge,' he said quietly. Donkin raised his voice: 'I don't want your
+bloomin' discharge--keep it. I'm goin' ter 'ave a job hashore.' He turned
+to us. 'No more bloomin' sea for me,' he said, aloud. All looked at him.
 He had better clothes, had an easy air, appeared more at home than any
 of us; he stared with assurance, enjoying the effect of his
-declaration.”
+declaration."
 
-In how many novels would Donkin’s life have been limited by the part
+In how many novels would Donkin's life have been limited by the part
 that he was required to play in the adventures of the _Narcissus?_ As it
 is our interest in his progress has been satisfied by a prologue
-only. Or there is Charley, the boy of the crew--“As I came up I saw a
+only. Or there is Charley, the boy of the crew--"As I came up I saw a
 red-faced, blowzy woman, in a grey shawl, and with dusty, {064}fluffy
-hair, fall on Charley’s neck. It was his mother. She slobbered over
-him:--‘Oh, my boy! my boy!’--‘Leggo me,’ said Charley, ‘leggo,
-mother!’ I was passing him at the time, and over the untidy head of
+hair, fall on Charley's neck. It was his mother. She slobbered over
+him:--'Oh, my boy! my boy!'--'Leggo me,' said Charley, 'leggo,
+mother!' I was passing him at the time, and over the untidy head of
 the blubbering woman he gave me a humorous smile and a glance ironic,
 courageous, and profound, that seemed to put all my knowledge of life
 to shame. I nodded and passed on, but heard him say again,
-good-naturedly:--‘If you leggo of me this minyt--ye shall ‘ave a bob for
-a drink out of my pay.’”
+good-naturedly:--'If you leggo of me this minyt--ye shall 'ave a bob for
+a drink out of my pay.'"
 
-But one passes from these men of the sea--from M’Whirr and Baker,
+But one passes from these men of the sea--from M'Whirr and Baker,
 from Lingard and Captain Whalley, from Captain Anthony and Jim, with a
 suspicion that the author will not convince us quite so readily with his
 men of the land--and that suspicion is never entirely dismissed. About
-such men as M’Whirr and Baker he can tell us nothing that we will not
+such men as M'Whirr and Baker he can tell us nothing that we will not
 believe. He has such sympathy and understanding for them that they will,
 we are assured, deliver up to him their dearest secrets--those little
-details, {065}M’Whirr’s wife, Mr Baker’s proud sister, Charley’s
+details, {065}M'Whirr's wife, Mr Baker's proud sister, Charley's
 mother, are their dearest secrets. But with the citizens of the other
 world--with Stein, Decoud, Gould, Verloc, Razumov, the sinister Nikita,
 the little Fynes, even the great Nostromo himself--we cannot be so
@@ -1012,10 +1048,10 @@ confident, simply because their discoverer cannot yield them that same
 perfect sympathy.
 
 His theory about these men is that they have, all of them, an
-_idée fixe_, that you must search for this patiently, honestly,
+_id�e fixe_, that you must search for this patiently, honestly,
 unsparingly--having found it, the soul of the man is revealed to you.
 But is it? Is it not possible that Decoud or Verloc, feeling the probing
-finger, offer up instantly any _idée fixe_ ready to hand because
+finger, offer up instantly any _id�e fixe_ ready to hand because
 they wish to be left alone? Decoud himself, for instance--Decoud, the
 imaginative journalist in _Nostromo_, speculating with his ironic mind
 upon romantic features, at his heart, apparently cynical and reserved,
@@ -1023,39 +1059,39 @@ the burning passion for the beautiful Antonia. He has yielded enough
 to suggest the truth, but the truth itself eludes us. With Verloc again
 {066}we have a quite masterly presentation of the man as Conrad sees
 him. That first description of him is wonderful, both in its reality
-and its significance. “His eyes were naturally heavy, he had an air of
-having wallowed, fully dressed, all day on an unmade bed.”
+and its significance. "His eyes were naturally heavy, he had an air of
+having wallowed, fully dressed, all day on an unmade bed."
 
 With many novelists that would be quite enough, that we should see the
 character as the author sees him, but because, in these histories, we
-have the convictions of the extension of the protagonists’ lives
+have the convictions of the extension of the protagonists' lives
 beyond the stated episodes, it is not enough. Because they have lives
 independent of the covers of the book we feel that there can be no end
 to the things that we should be told about them, and they must be true
 things.
 
-Verloc, for instance, is attached from the first to his _idée
+Verloc, for instance, is attached from the first to his _id�e
 fixe_--namely, that he should be able to retain, at all costs, his
 phlegmatic state of self-indulgence and should not be jockeyed out of
 it. At the first sign of threatened change he is terrified to his very
 soul. Conrad never, for an instant, allows him to leave this ground
 upon which he has {067}placed him. We see the man tied to his rock of
-an _idée fixe_, but he has, nevertheless, we are assured, another life,
+an _id�e fixe_, but he has, nevertheless, we are assured, another life,
 other motives, other humours, other terrors. It is perhaps a direct
-tribute to the authors reserve power that we feel, at the book’s close,
+tribute to the authors reserve power that we feel, at the book's close,
 that we should have been told so much more.
 
 Even with the great Nostromo himself we are not satisfied as we are with
 Captain Whalley or Mr Kates. Nostromo is surely, as a picture, the moat
 romantically satisfying figure in the English novel since Scott,
-with the single exception of Thackeray’s Beatrix--and here I am not
+with the single exception of Thackeray's Beatrix--and here I am not
 forgetting Captain Silver, David Balfour, Catriona, nor, in our own
 immediate time, young Beauchamp or the hero of that amazing and so
 unjustly obscure fiction, _The Shadow of a Titan_. As a picture,
 Nostromo shines with a flaming colour, shines, as the whole novel
 shines, with a glow that is flung by the contrasted balance of its
 romance and realism. From that first vision of him as he rides slowly
-through the crowds, in his magnificent dress: “... his hat, a gay
+through the crowds, in his magnificent dress: "... his hat, a gay
 sombrero with {068}a silver cord and tassels. The bright colours of a
 Mexican scrape twisted on the mantle, the enormous silver buttons on the
 embroidered leather jacket, the row of tiny silver buttons down the seam
@@ -1066,14 +1102,14 @@ opened his eyes, directing at the weird figure perched by his bedside
 a glance of enigmatic and mocking scorn. Then his head rolled back, his
 eyelids fell, and the Capatos of the Cargadores died without a word or
 moan after an hour of immobility, broken by short shudders testifying to
-the most atrocious sufferings”--we are conscious of his superb figure;
+the most atrocious sufferings"--we are conscious of his superb figure;
 and after his death we do, indeed, believe what the last lines of the
-book assure us--“In that true cry of love and grief that seemed to
+book assure us--"In that true cry of love and grief that seemed to
 ring aloud from Punta Mala to Azuera and away to the bright line of
 the horizon, overhung by a big white cloud shining like a mass of
 solid silver, the {069}genius of the magnificent Capatuz de Cargadores
-dominated the dark gulf containing his conquests of treasure and love.”
- His genius dominates, yes--but it is the genius of a magnificent picture
+dominated the dark gulf containing his conquests of treasure and love."
+His genius dominates, yes--but it is the genius of a magnificent picture
 standing as a frontispiece to the book of his soul. And that soul is not
 given us--Nostromo, proud to the last, refuses to surrender it to us.
 Why is it that the slender sketch of old Singleton in _The Nigger of
@@ -1087,7 +1123,7 @@ Nevertheless, at another turn of the road, this criticism must seem the
 basest ingratitude. When we look back and survey that crowd, so various,
 so distinct whether it be they who are busied, before our eyes, with the
 daily life of Sulaoo, or the Verloc family (the most poignant scene in
-the whole of Conrad’s art--the drive in the {070}cab of old Mrs Verloc,
+the whole of Conrad's art--the drive in the {070}cab of old Mrs Verloc,
 Winnie and Stevie--compels, additionally, our gratitude) or that strange
 gathering, the Haldins, Nikita, Laspara, Madame de S------, Peter
 Ivanovitch, Raznmov, at Geneva, or the highly coloured figures in
@@ -1124,10 +1160,10 @@ Three elements in the work of Conrad the poet as distinct from Conrad
 the novelist deserve consideration--style, atmosphere and philosophy. In
 the matter of style the first point that must strike any constant reader
 of the novels is the change that is to be marked between the earlier
-works and the later. Here is a descriptive passage from {073}Conrad’s
+works and the later. Here is a descriptive passage from {073}Conrad's
 second novel, _An Outcast of the Islands_:
 
-“He followed her step by step till at last they both stopped, facing
+"He followed her step by step till at last they both stopped, facing
 each other under the big tree of the enclosure. The solitary exile of
 the forests great, motionless and solemn in his abandonment, left alone
 by the life of ages that had been pushed away from him by those pigmies
@@ -1137,11 +1173,11 @@ spreading his branches wide in a gesture of lofty protection, as if to
 hide them in the sombre shelter of innumerable leaves; as if moved by
 the disdainful compassion of the strong, by the scornful pity of an
 aged giant, to screen this struggle of two human hearts from the cold
-scrutiny of glittering stars.”
+scrutiny of glittering stars."
 
 And from his latest novel, _Chance_:
 
-“The very sea, with short flashes of foam bursting out here and there
+"The very sea, with short flashes of foam bursting out here and there
 in the gloomy distances, the unchangeable, safe sea sheltering a man
 from all passions, except its own anger, seemed queer to the quick
 {074}glance he threw to windward when the already effaced horizon traced
@@ -1152,21 +1188,21 @@ it. He felt it in the sudden sense of his isolation; the trustworthy,
 powerful ship of his first acquaintance reduced to a speck, to something
 almost undistinguishable. The mere support for the soles of his two
 feet before that unexpected old man becoming so suddenly articulate in a
-darkening universe.”
+darkening universe."
 
 It must be remembered that the second of these quotations is the voice
 of Marlowe and that therefore it should, in necessity, be the simpler of
 the two. Nevertheless, the distinction can very clearly be observed. The
 first piece of prose is quite definitely lyrical: it has, it cannot be
-denied, something of the “purple patch.” We feel that the prose is too
+denied, something of the "purple patch." We feel that the prose is too
 dependent upon sonorous adjectives, that it has the deliberation of work
-slightly affected by the author’s {075}determination that it shall be
+slightly affected by the author's {075}determination that it shall be
 fine. The rhythm in it, however, is as deliberate as the rhythm of any
 poem in English, the picture evoked as distinct and clear-cut as though
 it were, in actual tact, a poem detached from all context and, finally,
 there is the inevitable philosophical implication to give the argument
 to the picture. Such passages of descriptive prose may be found again
-and again in the earlier novels and tales of Conrad, in _Almayer’s
+and again in the earlier novels and tales of Conrad, in _Almayer's
 Folly, Tales of Unrest, The Nigger of the Narcissus, Typhoon, Youth,
 Heart of Darkness, Lord Jim_,--prose piled high with sonorous and
 slow-moving adjectives, three adjectives to a noun, prose that sounds
@@ -1176,21 +1212,21 @@ places upon movements and objects of no importance is disastrous.
 For instance, in the tale called _The Return_, there is the following
 passage:--
 
-“He saw her shoulder touch the lintel of the door. She swayed as if
+"He saw her shoulder touch the lintel of the door. She swayed as if
 dazed. There was {076}less than a second of suspense while they both
 felt as if poised on the very edge of moral annihilation, ready to fall
 into some devouring nowhere. Then almost simultaneously he shouted,
-‘Come back,’ and she let go the handle of the door. She turned round in
+'Come back,' and she let go the handle of the door. She turned round in
 peaceful desperation like one who has deliberately thrown away the last
 chance of life; and for a moment the room she faced appeared terrible,
-and dark, and safe--like a grave.”
+and dark, and safe--like a grave."
 
-The situation here simply will not bear the weight of the words--“moral
-annihilation,” “devouring nowhere,” “peaceful desperation,” “last chance
-of life,” “terrible,” “like a grave.” That he shouted gives a final
+The situation here simply will not bear the weight of the words--"moral
+annihilation," "devouring nowhere," "peaceful desperation," "last chance
+of life," "terrible," "like a grave." That he shouted gives a final
 touch of ludicrous exaggeration to the whole passage.
 
-Often, in the earlier books, Conrad’s style has the awkward
+Often, in the earlier books, Conrad's style has the awkward
 over-emphasis of a writer who is still acquiring the language that he is
 using, like a foreigner who shouts to us because he thinks that thus
 we shall understand him more easily. But there is also, in this earlier
@@ -1198,18 +1234,18 @@ style, the marked effect of {077}two influences. One influence is that
 of the French language and especially of the author of _Madame Bovary_.
 When we recollect that Conrad hesitated at the beginning of his career
 as to whether he would write in French or English, we can understand
-this French inflection. Flaubert’s effect on his style is quite
-unmistakable. This is a sentence of Flaubert’s: “Toutes ses velléités de
-dénigrement l’envanouissaiont sous la poésie du rôle qui l’envahissait;
-et entrainée vers l’homme par l’illusion du personnage elle tâcha de se
-figurer sa vie, cette vie retentissante, extraordinaire, splendide...”
- and this a sentence of Conrad’s: “Her hands slipped slowly off Lingard’s
+this French inflection. Flaubert's effect on his style is quite
+unmistakable. This is a sentence of Flaubert's: "Toutes ses vell�it�s de
+d�nigrement l'envanouissaiont sous la po�sie du r�le qui l'envahissait;
+et entrain�e vers l'homme par l'illusion du personnage elle t�cha de se
+figurer sa vie, cette vie retentissante, extraordinaire, splendide..."
+and this a sentence of Conrad's: "Her hands slipped slowly off Lingard's
 shoulders and her arms tell by her side, listless, discouraged, as if
 to her--to her, the savage, violent and ignorant creature--had been
 revealed clearly in that moment the tremendous fact of our isolation, of
-the loneliness, impenetrable and transparent, elusive and everlasting.”
+the loneliness, impenetrable and transparent, elusive and everlasting."
 
-Conrad’s sentence reads like a direct translation from the French, It
+Conrad's sentence reads like a direct translation from the French, It
 is probable, {078}however, that his debt to Flaubert and the French
 language can be very easily exaggerated, and it does not seem, in
 any case, to have driven very deeply into the heart of his form. The
@@ -1223,7 +1259,7 @@ that he had, for so many years, so directly served. If it were not for
 his remarkable creative gift that had been, from the very first, at its
 full strength, his early books would stand as purely lyrical evocations
 of the sea and the forest. It is the poetry of the Old Testament of
-which we think in many pages of _Almayer’s Folly_ and _An Outcast of
+which we think in many pages of _Almayer's Folly_ and _An Outcast of
 the Island_, a poetry that has the rhythm and metre of a spontaneous
 emotion. He was never again to catch quite the spirit of that first
 rapture.
@@ -1242,19 +1278,19 @@ it were, by its own will and desire. Compare, for a moment, this passage
 from _Typhoon_ with that earlier one from _The Outcast of the Islands_
 that I quoted above:
 
-“He watched her, battered and solitary, labouring heavily in a wild
+"He watched her, battered and solitary, labouring heavily in a wild
 scene of mountainous black waters lit by the gleam of distant worlds.
 She moved slowly, breathing into the still core of the hurricane
 {080}the excess of her strength in a white cloud of steam, and the
 deep-toned vibration of the escape was like the defiant trumpeting of a
 living creature of the sea impatient for the renewal of the contest.
-It ceased suddenly. The still air moaned. Above Jakes’ head a few stars
+It ceased suddenly. The still air moaned. Above Jakes' head a few stars
 shone into the pit of black vapours. The inky edge of the cloud-disc
 frowned upon the ship under the patch of glittering sky. The stars too
 seemed to look at her intently, as if for the last time, and the cluster
-of their splendour sat like a diadem on a lowering brow.”
+of their splendour sat like a diadem on a lowering brow."
 
-That is poet’s work, and poet’s work at its finest. Instead of
+That is poet's work, and poet's work at its finest. Instead of
 impressing us, as the earlier piece of prose, with the fact that the
 author has made the very most of a rather thin moment--feels, indeed,
 himself that it is thin--we are here under the influence of something
@@ -1264,12 +1300,12 @@ the heart of the finest material--and yet it remains, through all its
 discipline, spontaneous.
 
 These three tales, _Typhoon, Youth_ and {081}_Heart of Darkness_, stand
-by themselves as the final expression of Conrad’s lyrical gift. We
-may remember such characters as M’Whirr, Kurtz, Marlowe, but they are
+by themselves as the final expression of Conrad's lyrical gift. We
+may remember such characters as M'Whirr, Kurtz, Marlowe, but they are
 figures as the old seneschal in _The Eve of St Agnes_ or the Ancient
 Mariner himself are figures. They are as surely complete poems, wrought
-and finished in the true spirit of poetry, as Whitman’s _When Lilac
-first on the Door yard bloomed_ or Keats’ _Nightingale._ Their author
+and finished in the true spirit of poetry, as Whitman's _When Lilac
+first on the Door yard bloomed_ or Keats' _Nightingale._ Their author
 was never again to succeed so completely in combining the free spirit of
 his enthusiasm with the disciplined restraint of the true artist.
 
@@ -1288,7 +1324,7 @@ sometimes as ponderous as a city policeman. Nevertheless, in that
 passage from _Chance_ quoted at the beginning of the chapter, although
 we may be far from the undisciplined enthusiasm of _An Outcast of
 the Islands_, the lyrical impulse still remains. Yes, it is there,
-but--“Young Powell felt it.” In that magical storm that was _Typhoon_
+but--"Young Powell felt it." In that magical storm that was _Typhoon_
 God alone can share our terror and demand our courage; in the later
 experience young Powell is our companion.
 
@@ -1308,8 +1344,8 @@ react so admirably that the atmosphere is provided simply by that
 reaction--and there, finally, it is left, put into no relation with
 other atmospheres, serving no further purpose than the immediate one of
 stating the facts. Of this school are the realists and, in our own
-day, Mr Arnold Bennett’s Brighton background in _Hilda Lessways_ or
-Mrs Wharton’s New York background in _The House of Mirth_ offer most
+day, Mr Arnold Bennett's Brighton background in _Hilda Lessways_ or
+Mrs Wharton's New York background in _The House of Mirth_ offer most
 successful examples of such realistic work. The fourth class provides us
 with the novelists who wish to place their atmosphere in relation
 with the rest of life. Our imagination is awakened, insensibly, by the
@@ -1320,8 +1356,8 @@ are boundless, its progression is extended beyond all possibilities
 of definition. Such a moment is the death of Bazarov in _Fathers and
 Children_, the searching of Dmitri in _The Brothers Karamazov_, the
 scene at the theatre in _The Ring and the Book_, the London meeting
-between Beauchamp and René in _Beauchamp’s Career_. It is not only that
-these scenes are “done” to the full extent of their “doing,” it is also
+between Beauchamp and Ren� in _Beauchamp's Career_. It is not only that
+these scenes are "done" to the full extent of their "doing," it is also
 that they have behind them the lyrical impulse that ignites them with
 all the emotion and beauty in the history of the world; Turgeniev,
 Dostoievsky, Browning, Meredith were amongst the greatest of the poets.
@@ -1330,19 +1366,19 @@ Conrad, at his highest moments, is also of that company.
 But it is not enough to say that this potential atmosphere is simply
 lyrical. Mr Chesterton, in his breathless _Victorian Age in Literature_,
 has named this element Glamour. {085}In writing of the novels by George
-Eliot he says: “Indeed there is almost every element of literature,
+Eliot he says: "Indeed there is almost every element of literature,
 except a certain indescribable thing called _Glamour_, which was the
 whole stock-in-trade of the Brontes, which we feel in Dickens when Quilp
 clambers, and rotten wood by the desolate river; and even in Thackeray,
 when Edmond wanders like some swarthy crow about the dismal avenues of
-Castlewood.” Now’ this matter of _Glamour_ is not all, because Dickens,
+Castlewood." Now' this matter of _Glamour_ is not all, because Dickens,
 for instance, is not at all potential. His pictures of Quilp or the
-house of the Dedloeks or Jonas Chuzzlewit’s escape after the murder do
+house of the Dedloeks or Jonas Chuzzlewit's escape after the murder do
 not put us into touch with other worlds--but we may say, at any rate,
 that when, in a novel atmosphere _is_ potential it is certain also to
 have glamour.
 
-The potential qualities of Conrad’s atmosphere are amongst his very
+The potential qualities of Conrad's atmosphere are amongst his very
 strongest gifts and, it we investigate the matter, we see that it is
 his union of Romance and Realism that gives such results. Of almost no
 important scene in his novels is it possible to define the boundaries.
@@ -1352,7 +1388,7 @@ terror of that immediate scene, minutely and realistically described--it
 has also the terror of all our knowledge of loneliness, desolation, the
 power of something stronger than ourselves. In _Lord Jim_ the contrast
 of Jim with the officers of the _Patna_ is a contrast not only
-immediately vital and realised to the very fringe of the captain’s
+immediately vital and realised to the very fringe of the captain's
 gay and soiled pyjamas, but also potential to the very limits of our
 ultimate conception of the eternal contrast between good and evil,
 degradation and vigour, ugliness and beauty. In _The Nigger of the
@@ -1363,9 +1399,9 @@ negro, that alarms the souls of Donkin, of Belfast, of Singleton, of the
 boy Charlie, creeps also to our sides and envelops for us far more than
 that single voyage of the _Narcissus_. {087}When Winnie Verloc, her old
 mother and the boy Stevie, take their journey in the cab it does not
-seem ludicrous to us that the tears of “that large female in a dark,
+seem ludicrous to us that the tears of "that large female in a dark,
 dusty wig, and ancient silk dress festooned with dingy white cotton
-lace” should move us as though Mrs Verloc were our nearest friend.
+lace" should move us as though Mrs Verloc were our nearest friend.
 That mournful but courageous journey remains in our mind as an intimate
 companion of our own mournful and courageous experiences. Such examples
 might be multiplied quite indefinitely.
@@ -1376,9 +1412,9 @@ wishes to impress his reader with the realism of his picture, but rather
 because he s, like a very small boy in a strange house, pursuing the
 most romantic adventures for his own pleasure and excitement only. We
 may hear, with many novelists, the click of satisfaction with which they
-drive another nail into the framework that supports their picture. “Now
-see how firmly it stands,” they say. “That last nail settled it.”
- But {088}Conrad is utterly unconscious as to his readers’ later
+drive another nail into the framework that supports their picture. "Now
+see how firmly it stands," they say. "That last nail settled it."
+But {088}Conrad is utterly unconscious as to his readers' later
 credulity--he is too completely held by his own amazing discoveries.
 Sometimes, as in _The Return_, when no vision is granted to him, it is
 as though he were banging on a brass tray with all his strength so that
@@ -1386,7 +1422,7 @@ no one should perceive his own grievous disappointment at his failure.
 But, in his real discoveries, how the atmosphere piles itself up, around
 and about him, how we follow at his heels, penetrating the darkness,
 trusting to his courage, finding ourselves suddenly blinded by the blaze
-of Aladdin’s cave! If he is tracing the tragedy of Willems and Almayer,
+of Aladdin's cave! If he is tracing the tragedy of Willems and Almayer,
 a tragedy that has for its natural background the gorgeous, heavy
 splendour of those unending forests, he sees details that belong to the
 austerest and most sharply disciplined realism. We see Lakamba,
@@ -1394,14 +1430,14 @@ asleep under the moon, slapping himself in his dreams to keep off the
 mosquitoes; a bluebottle comes buzzing into the verandah above the
 dirty plates of a half-finished meal and defies Lingard and Almayer, so
 {089}that they are like men disheartened by some tremendous failure; the
-cards with which Lingard tries to build a house for Almayer’s baby are
-“a dirty double pack” with which he used to play Chinese bézique--it
+cards with which Lingard tries to build a house for Almayer's baby are
+"a dirty double pack" with which he used to play Chinese b�zique--it
 bored Almayer but the old seaman delighted in it, considering it a
 remarkable product of Chinese genius. The atmosphere of the terrible
 final chapters is set against this picture of a room in which Mrs
 Willems is waiting for her abominable husband:
 
-“Bits of white stuff; rags yellow, pink, blue; rags limp, brilliant and
+"Bits of white stuff; rags yellow, pink, blue; rags limp, brilliant and
 soiled, trailed on the floor, lay on the desk amongst the sombre covers
 of books soiled, greasy, but stiff-backed in virtue, perhaps, of their
 European origin. The biggest set of bookshelves was partly hidden by a
@@ -1416,60 +1452,60 @@ crude, came into the room, beat in the early morning upon the safe in
 the far-off corner, then, travelling against the sun, cut at midday the
 big desk in two with its solid and clean-edged brilliance; with its hot
 brilliance in which a swarm of flies hovered in dancing flight over some
-dirty plate forgotten there amongst yellow papers for many a day!”
+dirty plate forgotten there amongst yellow papers for many a day!"
 
-And this room is set in the very heart of the forests--“the forests
+And this room is set in the very heart of the forests--"the forests
 unattainable, enigmatical, for ever beyond reach like the stars of
-heaven--and as indifferent.” Had I space I could multiply from
+heaven--and as indifferent." Had I space I could multiply from
 every novel and tale examples of this creation of atmosphere by the
 juxtaposition of the lyrical and the realistic--the lyrical pulse
 beating through realistic detail ami transforming it. I will, however,
 select one book, a supreme example of this effect. What I say about
-_Nostromo_ may be proved from any other work of Conrad’s.
+_Nostromo_ may be proved from any other work of Conrad's.
 
 The theme of _Nostromo_ is the domination {091}of the silver of the
 Sulaco mine over the bodies and souls of the human beings who live near
-it. The light of the silver shines over the book. It is typified by “the
-white head of Iliguerota rising majestically upon the blue.” Conrad,
+it. The light of the silver shines over the book. It is typified by "the
+white head of Iliguerota rising majestically upon the blue." Conrad,
 then, in choosing his theme, has selected the most romantic possible,
 the spirit of silver treasure luring men on desperately to adventure
 and to death. His atmosphere, therefore, is, in its highest lights,
-romantic, even until that last vision of all of “the bright line of
+romantic, even until that last vision of all of "the bright line of
 the horizon, overhung by a big white cloud shining like a mass of solid
-silver.” Sulaco burns with colour. We can see, as though we had been
-there yesterday, those streets with the coaches, “great family arks
+silver." Sulaco burns with colour. We can see, as though we had been
+there yesterday, those streets with the coaches, "great family arks
 swayed on high leathern springs full of pretty powdered faces in which
-the eyes looked intensely alive and black,” the houses, “in the early
-sunshine, delicate primrose, pale pink, pale blue,” or, after dark, from
-Mrs Gould’s balcony “towards the plaza end of the street the glowing
+the eyes looked intensely alive and black," the houses, "in the early
+sunshine, delicate primrose, pale pink, pale blue," or, after dark, from
+Mrs Gould's balcony "towards the plaza end of the street the glowing
 coals in the hazeros of the market women cooking their {092}evening
 meal glowed red along the edge of the pavement. A man appeared without
 a sound in the light of a street lamp, showing the coloured inverted
 triangle of his broidered poncho, square on his shoulders, hanging to
 a point below his knees. From the harbour end of the Calle a horseman
 walked his soft-stepping mount, gleaming silver-grey abreast each lamp
-under the dark shape of the rider.” Later there is that sinister glimpse
-of the plaza, “where a patrol of cavalry rode round and round without
+under the dark shape of the rider." Later there is that sinister glimpse
+of the plaza, "where a patrol of cavalry rode round and round without
 penetrating into the streets which resounded with shouts and the
 strumming of guitars issuing from the open doors of pulperias... and
 above the roofs, next to the perpendicular lines of the cathedral towers
 the snowy curve of Higuerota blocked a large space of darkening blue
-sky before the windows of the Intendencia.” In its final created
+sky before the windows of the Intendencia." In its final created
 beauty Sulaco is as romantic, as coloured as one of those cloud-topped,
-many-towered towns under whose gates we watch Grimm’s princes and
+many-towered towns under whose gates we watch Grimm's princes and
 princesses passing--but the detail of it is {093}built with careful
-realism demanded by the “architecture of Manchester or Birmingham.” We
+realism demanded by the "architecture of Manchester or Birmingham." We
 wonder, as Sulaco grows familiar to us, as we realise its cathedral,
 its squares and streets and houses, its slums, its wharves, its sea, its
 hills and forests, why it is that other novelists have not created towns
 for us.
 
 Anthony Trollope did, indeed, give us Barchester, but Barchester is
-a shadow beside Sulaco. Mr Thomas Hardy’s Wessex map is the most
+a shadow beside Sulaco. Mr Thomas Hardy's Wessex map is the most
 fascinating document in modern fiction, with the possible exception of
-Stevenson’s chart in _Treasure Island_. Conrad, without any map at all,
+Stevenson's chart in _Treasure Island_. Conrad, without any map at all,
 gives us a familiarity with a small town on the South American coast
-that far excels our knowledge of Barsetshire, Wessex and John Silver’s
+that far excels our knowledge of Barsetshire, Wessex and John Silver's
 treasure. If any attentive reader of _Nostromo_ were put down in Sulaco
 tomorrow he would feel as though he had returned to his native town. The
 detail that provides this final picture is throughout the book
@@ -1478,7 +1514,7 @@ incessant but never intruding. We do not look back, when the novel is
 have been led, quite unconsciously, forward. We are led, at moments of
 the deepest drama, through rooms and passages that are only remembered,
 many hours later, in retrospect. There is, for instance, the
-Aristocratic Club, that “extended to strangers the large hospitality
+Aristocratic Club, that "extended to strangers the large hospitality
 of the cool, big rooms of its historic quarters in the front part of a
 house, once a residence of a High official of the Holy Office. The
 two wings, shut up, crumbled behind the nailed doors, and what may be
@@ -1491,24 +1527,24 @@ broken nose meekly, with his fine stone hands crossed on his breast. The
 chocolate-coloured faces of servants with mops of black hair peeped
 at you from above; the click of billiard balls came to your ears, and,
 {095}ascending the steps, you would perhaps see in the first steps, very
-stiff upon a straight-backed chair, in a good light, Don Pépé moving his
-long moustaches as he spelt his way, at arm’s length, through an old
+stiff upon a straight-backed chair, in a good light, Don P�p� moving his
+long moustaches as he spelt his way, at arm's length, through an old
 Sta Marta newspaper. His horse--a strong-hearted but persevering black
 brute, with a hammer bead--you would have seen in the street dozing
 motionless under an immense saddle, with its nose almost touching the
-curbstone of the side-walk!”
+curbstone of the side-walk!"
 
 How perfectly recollected is that passage! Can we not hear the
-exclamation of some reader “Yes--those orange-trees! It was just like
-that when I was there!” How convinced we are of Conrad’s unimpeachable
-veracity! How like him are those remembered details, “the nailed
-doors,” “the fine stone hands,” “at arm’s-length”!--and can we not sniff
-something of the author’s impatience to let himself go and tell us more
-about that “hammer-headed horse” of whose adventures with Don Pépé he
+exclamation of some reader "Yes--those orange-trees! It was just like
+that when I was there!" How convinced we are of Conrad's unimpeachable
+veracity! How like him are those remembered details, "the nailed
+doors," "the fine stone hands," "at arm's-length"!--and can we not sniff
+something of the author's impatience to let himself go and tell us more
+about that "hammer-headed horse" of whose adventures with Don P�p� he
 must remember enough to fill a volume!
 
 He is able, therefore, upon this foundation {096}of a minute and
-scrupulous réalisai to build as fantastic a building as he pleases
+scrupulous r�alisai to build as fantastic a building as he pleases
 without fear of denying Truth. He does not, in _Nostromo_ at any rate,
 choose to be fantastic, but he is romantic, and our final impression
 of the silver mine and the town under its white shining shadow is
@@ -1521,7 +1557,7 @@ catching the red flower flung to him out of the crowd, but we remember
 also his death and the agony of his defeated pride. Sotillo, the vainest
 and most sordid of bandits, is no figure for a fairy story.
 
-Here, then, is the secret of Conrad’s atmosphere. He is the poet,
+Here, then, is the secret of Conrad's atmosphere. He is the poet,
 working through realism, to the poetic vision of life. That intention is
 at the heart of his work from the first line of _Almayer s Folly_ to
 the last {097}line of _Victory. Nostromo_ is not simply the history of
@@ -1552,27 +1588,27 @@ very last. He admires that courage, the simplicity of that faith, but
 his irony springs from his knowledge of the inevitable end.
 
 There are, we may thankfully maintain, other possible views of life, and
-it is, surely, Conrad’s harshest limitation that he should never be free
+it is, surely, Conrad's harshest limitation that he should never be free
 from this certain obsession of the vanity of human struggle. So bound
 is he by this that he is driven to choose characters who will prove
 his faith. We can remember many fine and courageous characters of his
 creation, we can remember no single one who is not foredoomed to defeat.
-Jim wins, indeed, his victory, but at the close: “And that’s the end. He
+Jim wins, indeed, his victory, but at the close: "And that's the end. He
 passes away under a cloud, inscrutable at heart, forgotten, unforgiven,
 and excessively romantic.... He goes away from a living woman to
-celebrate his pitiless wedding with a shadowy ideal of conduct.”
- {099}Conrad’s ironical smile that has watched with tenderness the
-history of Jim’s endeavours, proclaims, at the last, that that pursuit
-has been vain--as vain as Stein’s butterflies.
+celebrate his pitiless wedding with a shadowy ideal of conduct."
+{099}Conrad's ironical smile that has watched with tenderness the
+history of Jim's endeavours, proclaims, at the last, that that pursuit
+has been vain--as vain as Stein's butterflies.
 
 And, for the rest, as Mr Curle in his study of Conrad has admirably
 observed, every character is faced with the enemy for whom he is, by
-character, least fitted. Nostromo, whose heart’s desire it is that his
+character, least fitted. Nostromo, whose heart's desire it is that his
 merits should be acclaimed before men, is devoured by the one dragon to
 whom human achievements are nothing--lust of treasure.
 
-M’Whirr, the most unimaginative of men, is opposed by the most
-tremendous of God’s splendid terrors and, although he saves his ship
+M'Whirr, the most unimaginative of men, is opposed by the most
+tremendous of God's splendid terrors and, although he saves his ship
 from the storm, so blind is he to the meaning of the things that he has
 witnessed that he might as well have never been born. Captain Brierley,
 watching the degradation of a fellow-creature from a security that
@@ -1581,8 +1617,8 @@ degradation.... The Beast in the Jungle is waiting ever ready to
 leap--the victim is always in his power. {100}It comes from this
 philosophy of life that the qualities in the human soul that Conrad most
 definitely admires are blind courage and obedience to duty. His men of
-brain--Marlowe, Decoud, Stein--are melancholy and ironic: “If you see
-far enough you must see how hopeless the struggle is.” The only way
+brain--Marlowe, Decoud, Stein--are melancholy and ironic: "If you see
+far enough you must see how hopeless the struggle is." The only way
 to be honestly happy is to have no imagination and, because Conrad is
 tender at heart and would have his characters happy, if possible, he
 chooses men without imagination. Those are the men of the sea whom he
@@ -1599,9 +1635,9 @@ to escape, he will not himself try to draw the soul of a man who is
 stronger than Fate. His ironic melancholy does not, tor an instant,
 hamper his interest--that is as keen and acute as is the absorption of
 any collector of specimens--but at the end of it all, as with his
-own Stein: “He says of him that he is ‘preparing to leave all
-this: preparing to leave...’ while he waves his hand sadly at his
-butterflies.”
+own Stein: "He says of him that he is 'preparing to leave all
+this: preparing to leave...' while he waves his hand sadly at his
+butterflies."
 
 Utterly opposed is it from the philosophy of the one English writer
 whom, in all other ways, Conrad most obviously resembles--Robert
@@ -1610,31 +1646,31 @@ save in the honesty that is common to both of them. As artists, both in
 their subjects and their treatment of their subjects, they are, in many
 ways, of an amazing resemblance, although the thorough investigation
 of that resemblance would need far more space than I can give it here.
-Browning’s {102}interest in life was derived, on the novelist’s side of
+Browning's {102}interest in life was derived, on the novelist's side of
 him, from his absorption in the affairs, spiritual and physical, of
-men and women; on the poet’s side, in the question again spiritual
-and physical, that arose from those affairs. Conrad has not Browning’s
+men and women; on the poet's side, in the question again spiritual
+and physical, that arose from those affairs. Conrad has not Browning's
 clear-eyed realisation of the necessity of discovering the individual
 philosophy that belongs to every individual case--he is too immediately
 enveloped in his one overwhelming melancholy analysis. But he has
 exactly that eager, passionate pursuit of romance, a romance to be
 seized only through the most accurate and honest realism.
 
-Browning’s realism was born of his excitement at the number and interest
+Browning's realism was born of his excitement at the number and interest
 of his discoveries; he chose, for instance, in _Sordello_ the most
 romantic of subjects, and, having made his choice, found that there was
 such a world of realistic detail in the case that, in his excitement, he
 forgot that the rest of the world did not know quite as much as he did.
 Is not this exactly what we may say of _Nostromo?_ Mr Chesterton has
-written of {103}Browning: “He substituted the street with the green
-blind for the faded garden of Watteau, and the ‘blue spirt of a lighted
-match’ for the monotony of the evening star.” Conrad has substituted for
-the lover serenading his mistress’ window the passion of a middle-aged,
+written of {103}Browning: "He substituted the street with the green
+blind for the faded garden of Watteau, and the 'blue spirt of a lighted
+match' for the monotony of the evening star." Conrad has substituted for
+the lover serenading his mistress' window the passion of a middle-aged,
 faded woman for her idiot boy, or the elopement of the daughter of a
 fraudulent speculator with an elderly, taciturn sea captain.
 
 The characters upon whom Robert Browning lavished his affection are
-precisely Conrad’s characters. Is not Waring Conrad’s man?
+precisely Conrad's characters. Is not Waring Conrad's man?
 
 And for the rest, is not Mr Sludge own brother to Verloc and old De
 Barrel? Bishop Blougram first cousin to the great Personage in _The
@@ -1644,14 +1680,14 @@ these characters with the same determination to extract the last word
 of truth from the matter, not grimly, but with a thrilling beat of the
 heart, it is also that the worlds of these {104}two poets are the same.
 How deeply would Nostromo, Decoud, Gould, Monyngham, the Verlocs, Flora
-de Barrel, M’Whirr, Jim have interested Browning! Surely Conrad has
-witnessed the revelation of Caliban, of Childe Roland, of James Lee’s
+de Barrel, M'Whirr, Jim have interested Browning! Surely Conrad has
+witnessed the revelation of Caliban, of Childe Roland, of James Lee's
 wife, of the figures in the Arezzo tragedy, even of that bishop who
-ordered his tomb at St Praxed’s Church, with a strange wonder as though
+ordered his tomb at St Praxed's Church, with a strange wonder as though
 he himself had assisted at these discoveries!
 
 Finally, _The Ring and the Book_, with its multiplied witnesses, its
-statement as a “case” of life, its pursuit of beauty through truth, the
+statement as a "case" of life, its pursuit of beauty through truth, the
 simplicity of the characters of Pompilia, Caponsacchi and the Pope, the
 last frantic appeal of Guido, the detail, encrusted thick in the walls
 of that superb building--here we can see the highest pinnacle of that
@@ -1660,7 +1696,7 @@ buttresses and towers.
 
 Conrad is his own master--he has imitated no one, he has created, as
 I have already said, his own planet, but the heights to which Browning
-carried Romantic-Realism showed {105}the author of _Almayer’s Folly_ the
+carried Romantic-Realism showed {105}the author of _Almayer's Folly_ the
 signs of the road that he was to follow.
 
 If, as has often been said, Browning was as truly novelist as poet,
@@ -1679,31 +1715,31 @@ I
 very largely as a means of escape from this business of the creation of
 character. The purely romantic novel may now be said to be, in England
 at any rate, absolutely dead. Mr Frank Swinnerton, in his study
-of _Robert Louis Stevenson_, said: “Stevenson, reviving the
+of _Robert Louis Stevenson_, said: "Stevenson, reviving the
 never-very-prosperous romance of England, created a school which has
 brought romance to be the sweepings of an old costume-chest;... if
 romance is to be conventional in a double sense, if it spring not from a
 personal vision of life, but is only a tedious virtuosity, a pretence,
 a conscious toy, romance as an art is dead. The art was jaded when Reade
 finished his vocifer{107}ous carpet-beating; but it was not dead. And if
-it is dead, Stevenson killed it!”
+it is dead, Stevenson killed it!"
 
 We may differ very considerably from Mr Swinnerton with regard to
-his estimate of Stevenson’s present and future literary value without
+his estimate of Stevenson's present and future literary value without
 denying that the date of the publication of _St Ives_ was also the date
 of the death of the purely romantic novel.
 
-But, surely, here, as Mr Swinnerton himself infers, the term “Romantic”
- is used in the limited and truncated idea that has formed, lately the
-popular idea of Romance. In exactly the same way the term “Realism” has,
+But, surely, here, as Mr Swinnerton himself infers, the term "Romantic"
+is used in the limited and truncated idea that has formed, lately the
+popular idea of Romance. In exactly the same way the term "Realism" has,
 recently, been most foolishly and uncritically handicapped. Romance, in
-its modern use, covers everything that is removed from reality: “I like
-romances,” we hear the modern reader say, “because they take me away
-from real life, which I desire to forget.” In the same way Realism is
+its modern use, covers everything that is removed from reality: "I like
+romances," we hear the modern reader say, "because they take me away
+from real life, which I desire to forget." In the same way Realism is
 defined by its enemies as a photographic enumeration of unimportant
-facts by an observant pessimist. “I like realism,” admirers of a certain
-order of novel {108}exclaim, “because it is so like life. It tells me
-just what I myself see every day--I know where I am.”
+facts by an observant pessimist. "I like realism," admirers of a certain
+order of novel {108}exclaim, "because it is so like life. It tells me
+just what I myself see every day--I know where I am."
 
 Nevertheless, impatient though we may be of these utterly false ideas
 of Romance and Realism, a definition of those terms that will satisfy
@@ -1752,9 +1788,9 @@ Joseph Conrad, from the very first, influenced though he was by the
 French novel, showed that Realism alone was not enough for him. That is
 to say that, in presenting the case of Almayer, it was not enough for
 him merely to state as truthfully as possible the facts. Those facts,
-sordid as they are, make the story of Almayer’s degradation sufficiently
+sordid as they are, make the story of Almayer's degradation sufficiently
 realistic, when it is merely {111}recorded and perceived by any
-observer. But upon these recorded facts Conrad’s imagination, without
+observer. But upon these recorded facts Conrad's imagination, without
 for a moment deserting the truth, worked, beautifying, ennobling it,
 giving it pity and terror, above all putting it mto relation with the
 whole universe, the whole history of the cycle of life and death.
@@ -1767,7 +1803,7 @@ by his successors, who found a little optimism, a little adventure, a
 little colour and a little tradition go a long way towards covering the
 required ground.
 
-Conrad had, from the first, a poet’s--that is to say, a romantic--mind,
+Conrad had, from the first, a poet's--that is to say, a romantic--mind,
 and his determination to use that romance realistically was simply his
 determination to justify the full play of his romantic mind in the eyes
 of all honest men. {112}In that intention he has absolutely succeeded;
@@ -1781,19 +1817,19 @@ determination to save his romance by his reality, to extend his reality
 by his romance. He found in English fiction little that could assist him
 in this development; the Russian novelists were to supply him with his
 clue. This whole question of Russian influence is difficult to define,
-but that Conrad has been influenced by Turgéniev a little and by
+but that Conrad has been influenced by Turg�niev a little and by
 Dostoievsky very considerably, cannot be denied. _Crime and Punishment,
 The Idiot, The Possessed, The Brothers Karamazov_ are romantic realism
 at the most astonishing heights that this development of the novel is
 ever likely to attain. We will never see again heroes of the Prince
 Myshkin, Dmitri Karamazov, {113}Nicolas Stavrogin build, men so real to
 us that no change of time or place, age or sickness can take them from
-us, men so beautifully lit with the romantic passion of Dostoievsky’s
+us, men so beautifully lit with the romantic passion of Dostoievsky's
 love of humanity that they seem to warm the whole world, as we know it,
 with the fire of their charity. That power of creating figures typical
 as well as individual has been denied to Conrad. Captain Anthony,
 Nostromo, Jim do not belong to the whole world, nor do they escape the
-limitations and confinements that their presentation as “cases” involves
+limitations and confinements that their presentation as "cases" involves
 on them. Moreover, Conrad does not love humanity. He feels pity,
 tenderness, admiration, but love, except for certain of his sea heroes,
 never, and even with his sea heroes it is love built on his scorn of
@@ -1813,9 +1849,9 @@ creator of Raskolnikov is his thrilling pursuit of the lives, the
 hearts, the minutest details of his characters. Conrad alone of all
 English novelists shares this zest with the great Russian. Dostoievsky
 found his romance in his love of his fellow-beings, Conrad finds his in
-his love of beauty, his poet’s cry for colour, but their realism they
+his love of beauty, his poet's cry for colour, but their realism they
 find together in the hearts of men--and they find it not as Flaubert,
-that they make of it a perfect work of art, not as Turgéniev, that they
+that they make of it a perfect work of art, not as Turg�niev, that they
 may extract from it a flower of poignant beauty, not as Tolstoi, that
 they may, from it, found a gospel--simply they pursue their quest
 {115}because the breathless interest of the pursuit is stronger than
@@ -1823,7 +1859,7 @@ they. They have, both of them, created characters simply because
 characters demanded to be created. We feel that Emma Bovary was
 dragged, painfully, arduously, against all the strength of her
 determination, out of the shades where she was lurking. Myshkin, the
-Karamazovs, and, in their own degree, Nostromo, Almayer, M’Whirr,
+Karamazovs, and, in their own degree, Nostromo, Almayer, M'Whirr,
 demanded that they should be flung upon the page.
 
 Instead of seizing upon Romance as a means of avoiding character, he
@@ -1855,12 +1891,12 @@ Miss Viola Meynell, Mr Brett Young--this influence is to be detected.
 {117}Even with such avowed realists as Mr Beresford, Mr George and Mr
 Swinnerton the realism is of a nature very different from the realism
 of even ten years ago, as can be seen at once by comparing so recent
-a novel as Mr Swinnerton’s _On the Staircase_ with Mr Arnold Bennett’s
-_Sacred and Profane Love_, or Mr Galsworthy’s _Man of Property_--and Mr
+a novel as Mr Swinnerton's _On the Staircase_ with Mr Arnold Bennett's
+_Sacred and Profane Love_, or Mr Galsworthy's _Man of Property_--and Mr
 E. M. Forster is a romantic-realist of most curious originality, whose
-_Longest Journey_ and _Howard’s End_ may possibly provide the historian
+_Longest Journey_ and _Howard's End_ may possibly provide the historian
 of English literature with dates as important as the publication of
-_Almayer’s Folly_ in 1895. The answer to this question does not properly
+_Almayer's Folly_ in 1895. The answer to this question does not properly
 belong to this essay.
 
 It is, at any rate, certain that neither the old romance nor the old
@@ -1904,7 +1940,7 @@ incredibility? He has not, during these last years, exerted the
 discipline and restraint that were once his law.
 
 Nevertheless, at the last, when one looks back over twenty years,
-from the _Almayer’s Folly_ of 1895 to the _Victory_ of 1915, one
+from the _Almayer's Folly_ of 1895 to the _Victory_ of 1915, one
 {120}realises that it was, for the English novel, no mean nor
 insignificant fortune that brought the author of those books to our
 shores to give a fresh impetus to the progress of our literature and to
@@ -1913,17 +1949,17 @@ enrich our lives with a new world of character and high adventure.
 
 
 
-A SHORT BIBLIOGRAPHY OF JOSEPH CONRAD’S PRINCIPAL WRITINGS
+A SHORT BIBLIOGRAPHY OF JOSEPH CONRAD'S PRINCIPAL WRITINGS
 
 [The date is given of the first edition of each hook. New edition
 signifies a change of format or transference to a different publisher.]
 
-Almayer’s Folly. A Story of an Eastern River (Unwin). 1895. New
+Almayer's Folly. A Story of an Eastern River (Unwin). 1895. New
 editions. (Nash). 1904; (Unwin). 1909, 1914, 1915.
 
 An Outcast of the Islands (Unwin). 1896, New edition, 1914.
 
-The Nigger of the “Narcissus”: A Tale of the Sea (Heinemann). 1897. New
+The Nigger of the "Narcissus": A Tale of the Sea (Heinemann). 1897. New
 edition, 1910.
 
 Tales of Unrest (Unwin). 1898. New edition, 1909.
@@ -1963,15 +1999,15 @@ Victory: An Island Tale (Methuen). 1915.
 
 AMERICAN BIBLIOGRAPHY
 
-{123}Almayer’s Folly: A Story of an Eastern River (_Macmillan_). 1895.
+{123}Almayer's Folly: A Story of an Eastern River (_Macmillan_). 1895.
 New editions, 1912; (_Doubleday_). 1911.
 
 An Outcast of the Islands (_Appleton_). 1896. New edition (_Doubleday_).
 1914.
 
 Children of the Sea: A Tale of the Forecastle (_Dodd, Mead_). 1897.
-New edition, 1912. New edition under English title: “The Nigger of the
-‘Narcissus’” (_Doubleday_). 1914.
+New edition, 1912. New edition under English title: "The Nigger of the
+'Narcissus'" (_Doubleday_). 1914.
 
 Tales of Unrest (_Scribner_). 1898.
 
@@ -2001,13 +2037,13 @@ to _Doubleday_). 1908. Under Western Eyes: A Novel (_Harper_). 1911.
 
 A Personal Retold (_Harper_). 1912.
 
-‘Twist Land and Sea: Tales (_Doran_). 1912. New edition (_Doubleday_).
+'Twist Land and Sea: Tales (_Doran_). 1912. New edition (_Doubleday_).
 1911.
 
 Chance: A Tale in Two Parts (_Doubleday_). 1914.
 
-A Set of Six [Tales: one, “The Duel.” previously issued as “A Point of
-Honour”] (_Doubleday_). 1915.
+A Set of Six [Tales: one, "The Duel." previously issued as "A Point of
+Honour"] (_Doubleday_). 1915.
 
 Victory: An Island Tale (_Doubleday_). 1915.
 
@@ -2022,4 +2058,363 @@ Within the Tides: Tales (_Doubleday_). 1916.
 
 End of the Project Gutenberg EBook of Joseph Conrad, by Hugh Walpole
 
-*** END OF THE PROJECT GUTENBERG EBOOK 52453 ***
+*** END OF THIS PROJECT GUTENBERG EBOOK JOSEPH CONRAD ***
+
+***** This file should be named 52453-8.txt or 52453-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/5/2/4/5/52453/
+
+Produced by David Widger from page images generously
+provided by the Internet Archive
+
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org Section 3. Information about the Project Gutenberg
+Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
